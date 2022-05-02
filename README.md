@@ -6,7 +6,7 @@
 5.  Obtener la similitud coseno entre todos los pares de documentos.
 
 Se generan 4 archivos txt con nombres: 
--InformePreprocesado.txt
--InformeCoseno.txt
--InformeTFIDF.txt
--InformeRepetidas.txt
+1.  InformePreprocesado.txt
+2.  InformeCoseno.txt
+3.  InformeTFIDF.txt
+- InformeRepetidas.txt
